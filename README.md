@@ -56,17 +56,6 @@ data remains saved even after closing the program.
 - `lost_items.txt` - Stores lost item details.
 - `found_items.txt` - Stores found item details.
 
-### How to Run
-
-1. Open the project in VS Code.
-2. Open the terminal.
-3. Compile the program:
-
-   `g++ main.cpp -o main`
-
-4. Run the program:
-
-   `.\main.exe`
 
 ### Conclusion
 
